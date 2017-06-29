@@ -1,2 +1,3 @@
 # MyTestRepo
 Detta är mitt första GitHub-repo :)
+Nu lägger vi till lite text på GitHub-siten ...
